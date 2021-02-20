@@ -1,0 +1,13 @@
+R1 : IF (kesulitan bernapas AND ngorok AND lesu AND lemah AND bulu kusam AND nafsu makan menurun AND ayam berputar-putar AND Jengger & pial kebiruan) THEN Penyakit Tetelo
+
+R2 : IF (lesu AND lemah AND bulu kusam AND nafsu makan menurun AND kurus & bobot menurun) THEN Penyakit Cacing
+
+R3 : IF (lesu AND lemah AND bulu kusam AND nafsu makan menurun AND kurus & bobot menurun AND berak bercampur darah) THEN Penyakit Berak Darah
+
+R4 : IF (lesu AND lemah AND bulu kusam AND nafsu makan menurun AND mata berair) THEN Penyakit Mata
+
+R5 : IF (lesu AND lemah AND bulu kusam AND nafsu makan menurun AND kurus & bobot menurun AND berak berwarna putih AND keluar cairan dari hidung) THEN Penyakit Berak putih
+
+R6 : IF (nafsu makan menurun AND kurus & bobot menurun AND pincang AND kelumpuhan) THEN Penyakit Bengkak persendian tulang kaki
+
+R7 : IF (nafsu makan menurun AND kurus & bobot menurun AND keluar cairan dari hidung AND kelopak mata lengket AND ayam selalu gelisah AND penurunan produksi telur) THEN Penyakit pilek
